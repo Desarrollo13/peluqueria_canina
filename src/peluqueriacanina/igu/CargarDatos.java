@@ -264,9 +264,7 @@ public class CargarDatos extends javax.swing.JFrame {
         
     }//GEN-LAST:event_btnGuardarActionPerformed
 
-    /**
-     * @param args the command line arguments
-     */
+   
    
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
